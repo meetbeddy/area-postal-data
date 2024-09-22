@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Compiled output
+dist/
+
+# TypeScript files
+*.tsbuildinfo
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Mac system files
+.DS_Store
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore built JavaScript files if you are only committing TypeScript
+*.js
+*.js.map
