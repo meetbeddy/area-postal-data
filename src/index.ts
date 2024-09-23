@@ -4,6 +4,8 @@ import {
 	getTownsByPostalCode,
 	getAllAreaCouncils,
 	getDistrictsByAreaCouncil,
+	searchPostalCode,
+	flexiblePostalSearch,
 } from "./utils/postalCodeUtils";
 import { PostalCodeData } from "./models/postalCodeTypes";
 
@@ -68,6 +70,38 @@ export const getPostalCode = {
 	 */
 	getDistricts: (areaCouncil: string): string[] | string => {
 		return getDistrictsByAreaCouncil(areaCouncil);
+	},
+
+	/**
+	 * Fuzzy search across LGA, district, and town names to retrieve postal codes.
+	 *
+	 * @param lga - The name of the LGA.
+	 * @param district - The name of the district.
+	 * @param town - The name of the town or settlement.
+	 * @returns An object containing the postal code, district, and LGA, or an error message.
+	 */
+	searchPostalCode: (
+		lga: string,
+		district: string,
+		town: string
+	): { postalCode: string; district: string; lga: string } | string => {
+		return searchPostalCode(lga, district, town);
+	},
+
+	/**
+	 * Flexible postal code search based on LGA, District, and optional Town.
+	 *
+	 * @param lga - The name of the LGA (e.g., Municipal). This is a required field.
+	 * @param district - The name of the district (optional).
+	 * @param town - The name of the town or settlement (optional).
+	 * @returns An object with postal code, district, and LGA if a match is found, or an error message if not.
+	 */
+	flexibleSearch: (
+		lga: string,
+		district?: string, // optional
+		town?: string // optional
+	): { postalCode: string; district: string; lga: string } | string => {
+		return flexiblePostalSearch(lga, district, town);
 	},
 };
 

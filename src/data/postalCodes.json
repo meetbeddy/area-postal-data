@@ -1,12 +1,105 @@
 {
     "areaCouncils": [
       {
-        "name": "Abuja",
+        "name": "Abuja Municipal",
         "districts": [
           {
-            "name": "Garki",
+            "name": "Garki - rural",
             "postalCode": "900104",
             "settlements": ["Abacha Barracks", "Apo", "Damagaza", "Dantata", "Durumi I", "Durumi II", "Durumi III", "Dutse", "Garki Village", "Gudu", "Guzape", "Kobi", "Kurumduma", "NEPA Village", "Wumba"]
+          },
+          {
+            "name": "Garki - Area 1",
+            "postalCode": "900241",
+            "settlements": ["Area 1"]
+          },
+          {
+            "name": "Garki - Area 2",
+            "postalCode": "900242",
+            "settlements": ["Area 2"]
+          },
+          {
+            "name": "Garki - Area 3",
+            "postalCode": "900243",
+            "settlements": ["Area 3"]
+          },
+          {
+            "name": "Garki - Area 7",
+            "postalCode": "900244",
+            "settlements": ["Area 7"]
+          },
+          {
+            "name": "Garki - Area 8",
+            "postalCode": "900245",
+            "settlements": ["Area 8"]
+          },
+          {
+            "name": "Garki - Area 10",
+            "postalCode": "900246",
+            "settlements": ["Area 10"]
+          },
+          {
+            "name": "Garki - Area 11",
+            "postalCode": "900247",
+            "settlements": ["Area 11"]
+          },
+          {
+            "name": "Asokoro",
+            "postalCode": "900231",
+            "settlements": ["Asokoro"]
+
+          },
+          {
+            "name": "Central business district",
+            "postalCode": "900211",
+            "settlements": ["Central business district"]
+
+          },
+          {
+            "name": "Maitama",
+            "postalCode": "900271",
+            "settlements": ["Maitama"]
+
+          },
+          {
+            "name": "Wuse - Zone 1",
+            "postalCode": "900281",
+            "settlements": ["Zone 1"]
+          },
+          {
+            "name": "Wuse - Zone 2",
+            "postalCode": "900282",
+            "settlements": ["Zone 2"]
+          },
+          {
+            "name": "Wuse - Zone 3",
+            "postalCode": "900283",
+            "settlements": ["Zone 3"]
+          },
+          {
+            "name": "Wuse - Zone 4",
+            "postalCode": "900284",
+            "settlements": ["Zone 4"]
+          },
+          {
+            "name": "Wuse - Zone 5",
+            "postalCode": "900285",
+            "settlements": ["Zone 5"]
+          },
+          {
+            "name": "Wuse - Zone 6",
+            "postalCode": "900286",
+            "settlements": ["Zone 6"]
+          },
+          {
+            "name": "Wuse - Zone 7",
+            "postalCode": "900287",
+            "settlements": ["Zone 7"]
+          },
+          {
+            "name": "Wuse II",
+            "postalCode": "900299",
+            "settlements": ["Wuse II"]
           },
           {
             "name": "Gui",
@@ -46,7 +139,7 @@
           {
             "name": "Gwarinpa",
             "postalCode": "900108",
-            "settlements": ["Gwarinpa Fed. Housing", "Gwarinpa Life Camp", "Gwarinpa Village", "Kado Federal Housing", "Kado Village", "Katampe", "Kuchigoro", "Mabushi", "Utako"]
+            "settlements": ["Gwarinpa Fed. Housing", "Life Camp", "Gwarinpa Village","Kado", "Kado Federal Housing", "Kado Village", "Katampe", "Kuchigoro", "Mabushi", "Utako"]
           },
           {
             "name": "Karu",
