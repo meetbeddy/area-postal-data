@@ -1,0 +1,245 @@
+{
+    "areaCouncils": [
+      {
+        "name": "Abuja",
+        "districts": [
+          {
+            "name": "Garki",
+            "postalCode": "900104",
+            "settlements": ["Abacha Barracks", "Apo", "Damagaza", "Dantata", "Durumi I", "Durumi II", "Durumi III", "Dutse", "Garki Village", "Gudu", "Guzape", "Kobi", "Kurumduma", "NEPA Village", "Wumba"]
+          },
+          {
+            "name": "Gui",
+            "postalCode": "900105",
+            "settlements": ["Airport", "Barowa", "Damakuba", "Dandi", "Dayisa", "Dodo", "Gbenduniya", "Gbessa", "Gora", "Gosa", "Gud Pasali", "Gui", "Gwako", "Iddo Maaji", "Iddo Pada", "Iddo Sabo", "Iddo Sarki", "Iddo Tudunwada", "Koloke", "Makana", "Makanima", "Nuwalogye", "Sauka", "Takilogo", "Toge", "Tunga Kwaso", "Tungan Jika", "Tungan Wakili Isa", "Zamani"]
+          },
+          {
+            "name": "Orozo",
+            "postalCode": "900109",
+            "settlements": ["Ajata", "Angwan Sako", "Anka", "Badna", "Chori Bisa", "Gidan Ajiya", "Gidan Mangoro", "Gugugu", "Kpepegyi", "Kurudu", "Kurudu Gwandara", "Kwoi", "Madalla", "Munapeyi Kasa", "Munapeyi Sama", "Orozo I", "Orozo II", "Sabon Gari", "Wowo"]
+          },
+          {
+            "name": "Karshi",
+            "postalCode": "900101",
+            "settlements": ["Aleku", "Damakasa", "Damakusa", "Gidan Boyi", "Gidan Kaka", "Gidan Kwano", "Karshi", "Kupayi", "Kusaki", "Kutasa", "Odu", "Tunga", "Ugamada", "Ungwan Tiv"]
+          },
+          {
+            "name": "Kabusa",
+            "postalCode": "900107",
+            "settlements": ["Aleyita", "Burum", "Dogori Gada", "Galadimawa", "Kabusa", "Ketti", "Lokogoma", "Lugbe", "Piwoyi", "Pykasa", "Sabon Lugbe", "Sheretti", "Takushara", "Wani", "Zhidu", "Zidna"]
+          },
+          {
+            "name": "Nyanya",
+            "postalCode": "900103",
+            "settlements": ["Angawa Bawa", "Gbagarape", "Kugbo", "Nyanya Site-Area A-F", "Nyanya Village/Gwandara", "Nyanya Village/Gwari"]
+          },
+          {
+            "name": "Gwagwa",
+            "postalCode": "900106",
+            "settlements": ["Bagusa", "Dei-die", "Filin Dabo", "Filin Dabo I", "Filin Dabo II", "Gwagwa", "Kaba", "Kagini", "Karsana I", "Karsana II", "Karsana III", "Saburi I", "Saburi II", "Tasha", "Zaudna"]
+          },
+          {
+            "name": "Jiwa",
+            "postalCode": "900102",
+            "settlements": ["Basan Jiwa", "Gyeda", "Hulumi", "Idu", "Idu Gwari", "Jiwa", "Karmo Sabo", "Karmo Tsoho", "Paipe", "Tungan Dallatu", "Tungan Madaki", "Zhidu"]
+          },
+          {
+            "name": "Gwarinpa",
+            "postalCode": "900108",
+            "settlements": ["Gwarinpa Fed. Housing", "Gwarinpa Life Camp", "Gwarinpa Village", "Kado Federal Housing", "Kado Village", "Katampe", "Kuchigoro", "Mabushi", "Utako"]
+          },
+          {
+            "name": "Karu",
+            "postalCode": "900110",
+            "settlements": ["Jikwoyi", "Karu Site (FHA)", "Karu Village"]
+          }
+        ]
+      },
+      {
+        "name": "Gwagwalada",
+        "districts": [
+          {
+            "name": "Gwagwalada",
+            "postalCode": "902101",
+            "settlements": ["Agota", "Akwayi", "Akyakyata", "Alu wamo", "Anguwar Hausawa", "Anguwar Sarki", "Atopi", "Auguwar-Madaki", "Bargada Bassa", "Basan Zuba", "Bassa", "Biyu", "Boka", "Chaboda", "Chitumu", "Chzako", "Dabagayi", "Dada", "Dada Gongo", "Dadabiri", "Damin Kara", "Dawaki", "Didan Tujura", "Diko", "Dikwa Gwari", "Dikwa Kotwa", "Dobi", "Doni", "Doruwa", "Eabodo", "Garin Godoso", "Gbadolo", "Gerin Angulu", "Gidan Ango", "Gidan Bala", "Gidan Dandu", "Gidan Gade", "Gidan Golo", "Gidan Yaro", "Goi", "Goi Sabo", "Gongo", "Gulupe", "Gurebare", "Gurfa Gongo", "Gurfata", "Gurfata Sabo", "Gwako", "Gwale", "Gwari", "Gwaywalada", "Gyabiri", "Hanagada Abdu", "Hanagada Bassa", "Ibbo", "Ibwa", "Ibwa Sarki", "Ikwa", "Isom Bassa", "Isom Fulani", "Jalita Gongo", "Jigodo I", "Jiwape", "Kaburufi", "Kace Bassa", "Kace Sabo", "Kace Sarki", "Kaida Bassa", "Kaida Gwari", "Kaida Sabo", "Kalangu", "Kasanki", "Kpatawuro", "Kutabwche", "Kutunku", "Kuturpe", "Kwalikuzi", "Lafiya", "Ledi", "Ledi Sabo", "Madaki Abuche", "Maikaraya", "Maje Bassa", "Maje Tsoho", "Makama", "Momo Sabo", "Pabeyi", "Pagada", "Pagena I", "Paiken Korce", "Paiko", "Pajana II", "Pako", "Paso Gwari", "Pass Kutawa", "Patte", "Rafin Zurfi", "Rain Zurfi", "S/Ganuwa", "Sabo", "Saboda", "Sabon Gari", "Shaga I", "Shaga II", "Shajantara", "Shanagu", "Shara Bassa", "Shibo", "Shibo Bassa", "Shida", "Shidhida", "Shinge", "Soko", "Tsagban Siji", "Tsaunia Kura", "Tsudna", "Tundun Wada", "Tung Tsauni", "Tunga Makeri", "Tungan Adamu", "Tungan Auta", "Tungan D. Kolo", "Tungan Giwa", "Tungan Jika", "Tungan Kakaki", "Tungan Ladan", "Tungan M. Hassan", "Tungan Maikasuwa", "Tungan Pada", "Tungan S. Pada", "Tungan Salihu", "Tungan Tsauni", "Ung Gade", "Ung. Bassa", "Ung. Gwari", "Wagu Wase-Gyan", "Wuma", "Wumi", "Wurumbi", "Wuye-Wuye", "Yaluan Ibwa", "Yemipe", "Zuba"]
+          }
+        ]
+      },
+      {
+        "name": "Kuje",
+        "districts": [
+          {
+            "name": "Rubochi",
+            "postalCode": "903102",
+            "settlements": ["Adegbe", "Affa", "Ahinza", "Attako", "Bida", "Buga", "Darika", "Dnago", "Gabiya", "Gidan Bawa", "Gombe", "Gova", "Gudun Karya", "Gwagwada", "Gyana", "Huni-Gade", "Huni-Gwari", "Kujekwa", "Kule", "Kutunbwa", "Mabamade", "Munu", "Odun Bisa", "Odun Kasa", "Perri", "Rubatu", "Rubochi", "Rugese", "Sabe", "Sungba", "Tika", "Tuturutu", "Ukya", "Ungwar-Madaki", "Ure", "Yaba", "Yewusa", "Zagabutu", "Zoge", "Zokutu"]
+          },
+          {
+            "name": "Kuje",
+            "postalCode": "903101",
+            "settlements": ["Damwa", "Achmbi", "Aduga", "Agwai", "Atsauna", "Baban Kurmi", "Bamishi", "Banayi II", "Barayi Pada", "Bugako", "Buzunkure", "Chegasu", "Chibiri", "Chida", "Chukuku", "Dafara", "Damakusa", "Damangata", "Dibe Pada", "Dibepe", "Dubia", "Dudagwari Yamma", "Dude", "Duma", "Duriya", "Fafere Tsolo", "Gadoro Pada", "Gafere Sabo", "Ganagu Sabo", "Ganaju Sabo", "Gando", "Gashe", "Gaube", "Gawu", "Gbebasa", "Genge-Pada", "Gidan Jatau", "Gidan-Bawa", "Gidid Gwari", "Gidigwai II", "Ginagu Gwari", "Gonge", "Gumayi", "Gunagu Gwari", "Gunfufu", "Gwadaji", "Gwape II", "Gwari", "Gwau-Kurmi", "Gyawu", "Iye", "Jaida II", "Jeli", "Jigwa Isoho", "Jigwa Sabo", "Kabi", "Kabikasa", "Kahodahanmu", "Kamo G.", "Kanzo", "Kapa", "Kasada", "Kashemolo", "Kiyi", "Kiyi Basa", "Kiyi Ganara", "Kiyizhi", "Ksayarda Hausa", "Ksayarda Sabo", "Kuja Pada", "Kusaki", "Kutada", "Kutunibo", "Kutuop", "Kwaku", "Lafiya", "Lafiya Gwari", "Lamiga", "Lanto", "Madatta", "Maugi", "Mogada", "Nufawa", "Padahi", "Paggi", "Pami", "Pasali", "Peki", "Pima", "Rubokya", "S/Gwari Genge", "Sabon Gwaria", "Sauka", "Shaji", "Sketuko", "Takwa Gwari", "Takwa Hausawa", "Tuage", "Tude", "Tukpeki", "Tukuba I", "Tukuba II", "Tunbwa", "Uge", "Ungwar Galadime", "Wumi", "Yalwa", "Yamma", "Yanga", "Zangon Kara", "Zilu"]
+          }
+        ]
+      },
+      {
+        "name": "Bwari",
+        "districts": [
+          {
+            "name": "Bwari",
+            "postalCode": "901101",
+            "settlements": ["Apugye", "Barago", "Baran Rafi", "Barangoni", "Barapa", "Bazango Bwari", "Bunko", "Byazhi", "Chikale", "Dankoru", "Dauda", "Donabayi", "Duba", "Dutse Alhaji", "Gaba", "Galuwyi", "Gidan Babachi", "Gidan Baushe", "Gidan Pawa", "Gudupe", "Gutpo", "Igu", "Jigo", "Kaima", "Karaku", "Karawa", "Kasaru", "Katampe", "Kawadashi", "Kawu", "Kikumi", "Kimtaru", "Kogo", "Kubwa", "Kuchibuyi", "Kuduru", "Kurumin Daudu", "Kute", "Kwabwure", "Panda", "Panunuki", "Paspa", "Payi", "Piko", "Rugan S/Fulani", "Ruriji", "Sabon Gari", "Sagwari", "Shere", "Simape", "Sumpe", "T/Danzaria", "T/Manu", "Tokulo", "Tudun Wada", "Tunga Bijimi", "Tunga-Adoka", "Tungan Sarkin", "Ushafa", "Yaba", "Yajida", "Yaupe", "Yayidna", "Zango", "Zuma"]
+          }
+        ]
+      },
+      {
+        "name": "Abaji",
+        "districts": [
+          {
+            "name": "Yaba",
+            "postalCode": "905102",
+            "settlements": [
+              "Abuja",
+              "Adagba",
+              "Afo",
+              "Akori",
+              "Alampa",
+              "Allu",
+              "Ayaba",
+              "Bari-Bezi",
+              "Bazi-Bezi",
+              "Busga",
+              "Chakun",
+              "Chundugo",
+              "Dabbare",
+              "Dara",
+              "Dewu",
+              "Domi",
+              "Dum",
+              "Madechi",
+              "Ekki",
+              "Fakon Tando",
+              "Gadabiri",
+              "Gari",
+              "Gasakba",
+              "Gasukpa",
+              "Gawu",
+              "Gawun",
+              "Gidan Maisaye",
+              "Gurdi",
+              "Guruza",
+              "Gwanda",
+              "Gwona",
+              "Jamigbe",
+              "Kafako",
+              "Kpace",
+              "Kularida",
+              "Kutara",
+              "Kwago",
+              "Kwakwa",
+              "Kyawu",
+              "Lafia Yaba",
+              "Managi",
+              "Nadichi",
+              "Nagun",
+              "Nassarawa",
+              "Nowog",
+              "Nyembo",
+              "Pako Base",
+              "Panagu",
+              "Pandaji",
+              "Pankuru",
+              "Panpari",
+              "Piowe",
+              "Sabongida",
+              "Sarowo-Abdu",
+              "Selifulyu",
+              "Shadad",
+              "Soitan",
+              "Takpeshi",
+              "Talpa",
+              "Tanaga",
+              "Wapa",
+              "Yelwa",
+              "Yelwa Gawu",
+              "Zuwa"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kwali",
+        "districts": [
+          {
+            "name": "Wako",
+            "postalCode": "904109",
+            "settlements": [
+              "Ubosharu",
+              "Anguwar Baushe",
+              "Awawa",
+              "Azarachi",
+              "Bukpe",
+              "Chida",
+              "Dangara",
+              "Dapa",
+              "Gadabiyu",
+              "Kibuyi",
+              "Sa'adu",
+              "Sabon Gari",
+              "Ubo Saidu",
+              "Wako",
+              "Yewuti"
+            ]
+          },
+          {
+            "name": "Ashara",
+            "postalCode": "904108",
+            "settlements": [
+              "2 Tudu",
+              "Ahuwye",
+              "Akapo",
+              "Angun Tunga",
+              "Angun Wakili",
+              "Angun Woji Woji",
+              "Ashara",
+              "Bassoni",
+              "Bodolo",
+              "Chekanci",
+              "Daganaruwa Bassa",
+              "Damakusa Gwari",
+              "Daniwayo",
+              "Eke",
+              "Gomani",
+              "Gorgbe",
+              "Gulo",
+              "Gwaji",
+              "Gwan Auta",
+              "Huton",
+              "Janruwa",
+              "Kona Mada",
+              "Kpessili",
+              "Kukka",
+              "Kukka Bushe",
+              "Kundu Lele",
+              "Kunguni",
+              "Maikwari",
+              "Mumun",
+              "Nboni",
+              "Nzakpara",
+              "Padama",
+              "Puka",
+              "Pukafa",
+              "Rarra",
+              "Riwaza",
+              "Sabo Gari Gurara",
+              "Sadaba",
+              "Sharra",
+              "T. Sarki",
+              "Takuro Mallan",
+              "Tekpesse",
+              "Tudu Wada Mangu"
+            ]
+          }
+        ]
+      }
+    ]
+}
+      
